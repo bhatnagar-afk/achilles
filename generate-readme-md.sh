@@ -1,1 +1,1 @@
-widdershins ./achilles.json -o ./README.md
+widdershins ./src/achilles.json -o ./README.md

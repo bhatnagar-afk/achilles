@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "achilles", "achilles.csproj", "{160A3EC0-1831-4B98-9B72-01293FC16EEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src/achilles", "src/achilles.csproj", "{160A3EC0-1831-4B98-9B72-01293FC16EEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
